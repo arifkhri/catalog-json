@@ -1,0 +1,99 @@
+{
+    "products": [{
+        "id": 39005,
+        "name": "Apple iPhone 14 Pro",
+        "brand": "Apple",
+        "category": "Smartphone",
+        "description": "iPhone 14 Pro Max. Memotret detail menakjubkan dengan kamera Utama 48 MP. Nikmati iPhone dalam cara yang sepenuhnya baru dengan layar yang Selalu Aktif dan Dynamic Island. Deteksi Tabrakan,1 sebuah fitur keselamatan baru, memanggil bantuan saat Anda tak bisa.",
+        "price": 19999000,
+        "sku": "HAP-IP-14P-CON",
+        "rating": "4.9",
+        "rating_double": 5,
+        "total_review": 3,
+        "stock": "20",
+        "thumbnail": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1_5.jpg",
+        "detail_product": [{
+            "label": "Ukuran Layar",
+            "description": " 6.7 inci, 1290 x 2796 pixels, LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+        }, {
+            "label": "Sistem operasi",
+            "description": "iOS 16"
+        }, {
+            "label": "GPU",
+            "description": "Apple GPU (5-core graphics)"
+        }, {
+            "label": "Baterai",
+            "description": "Li-Ion 4323 mAh"
+        }, {
+            "label": "Dimensi",
+            "description": "160.7 x 77.6 x 7.85 mm"
+        }, {
+            "label": "Berat",
+            "description": "240 gr"
+        }, {
+            "label": "Garansi Resmi",
+            "description": "Garansi resmi"
+        }, {
+            "label": "Kamera",
+            "description": "48 MP, f/1.8, 24mm (wide), 1/1.28'', 1.22µm, dual pixel PDAF, sensor-shift OIS; 12 MP, f/2.8, 77mm (telephoto), 1/3.5'', PDAF, OIS, 3x optical zoom; 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55, 1.4µm, dual pixel PDAF, TOF 3D LiDAR scanner (depth). Depan 12 MP, f/1.9, 23mm (wide), 1/3.6"
+        }, {
+            "label":"Memori",
+            "description": "RAM 6 GB, ROM 128 GB/ 256 GB/ 512 GB/ 1 TB"
+        }],
+        "variants": [
+            {
+                "attribute_id": "93",
+                "id": 2376,
+                "label": "Warna",
+                "product_id": 41830,
+                "values": [
+                    {
+                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_silver_1_3_1.jpg",
+                        "label": "Silver",
+                        "option_value": "#f0f2f2"
+                    },
+                    {
+                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_deep_purple_1_2_1.jpg",
+                        "label": "Deep Purple",
+                        "option_value": "#594f63"
+                    },
+                    {
+                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_gold_1_1_1.jpg",
+                        "label": "Gold",
+                        "option_value": "#f4e8ce"
+                    },
+                    {
+                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_space_black_1_4.jpg",
+                        "label": "Space Black",
+                        "option_value": "#403e3d"
+                    }
+                ]
+            },
+            {
+                "attribute_id": "306",
+                "id": 2377,
+                "label": "Kapasitas",
+                "position": 1,
+                "product_id": 41830,
+                "values": [
+                    {
+                        "label": "128 GB",
+                        "value_index": "317"
+                    },
+                    {
+                        "label": "256 GB",
+                        "value_index": "318"
+                    },
+                    {
+                        "label": "512 GB",
+                        "value_index": "319"
+                    },
+                    {
+                        "label": "1 TB",
+                        "value_index": "320"
+                    }
+                ]
+            }
+        ]
+    }]
+}
