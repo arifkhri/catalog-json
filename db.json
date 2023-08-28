@@ -95,5 +95,125 @@
                 ]
             }
         ]
-    }]
+    }, {
+        "id": 39006,
+        "name": "Asus ROG Phone 6 12/256GB - Black",
+        "brand": "Asus",
+        "category": "Smartphone",
+        "description": "ROG Phne 6 FOR THOSE WHO DARE Legenda telah berevolusi! ROG Phone 6 adalah inkarnasi terbaru dari ponsel gaming yang mengalahkan dunia. Memanfaatkan kekuatan dari Platform Seluler Qualcomm® Snapdragon® 8+ Gen 1 terbaru, dengan sistem termal GameCool 6 kelas baru yang memungkinkan Anda menghancurkan setiap penghalang dan menembus setiap batas, dan layar 165 Hz untuk pengalaman visual yang revolusioner. Untuk kontrol total, ada sistem AirTrigger 6 dan aplikasi Armory Crate, dan untuk gameplay maraton, ada baterai monster 6000 mAh. Berani memilih ROG Phone 6 yang perkasa, dan Anda akan dihadiahi pengalaman yang layaknya legenda sejati.",
+        "price": 11999000,
+        "sku": "HAP-IP-14P-CON2",
+        "rating": "4.9",
+        "rating_double": 5,
+        "total_review": 1,
+        "stock": "20",
+        "thumbnail": "https://cdn.eraspace.com/media/catalog/product/a/s/asus_rog_phone_6_phantom_black_1_1.jpg",
+        "detail_product": [
+          {
+            "label": "Jaringan",
+            "description": "GSM / HSPA / LTE"
+          },
+          {
+            "label": "Warna",
+            "description": "Hitam"
+          },
+          {
+            "label": "Sistem Operasi",
+            "description": "Android 12"
+          },
+          {
+            "label": "Procesor",
+            "description": "Unisoc SC9863A1 (28nm), Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55"
+          },
+          {
+            "label": "Dimensi",
+            "description": "160,6 x 74,3 x 8,8"
+          },
+          {
+            "label": "Berat",
+            "description": "240 gr"
+          },
+          {
+            "label": "Garansi Resmi",
+            "description": "Garansi resmi"
+          }
+        ],
+        "variants": [
+          {
+            "attribute_id": "93",
+            "id": 2376,
+            "label": "Warna",
+            "product_id": 41830,
+            "values": [
+              {
+                "image": "https://cdn.eraspace.com/media/catalog/product/a/s/asus_rog_phone_6_phantom_black_1_1.jpg",
+                "label": "Black",
+                "option_value": "#000"
+              }
+        ]
+              
+          }
+          
+        ]
+      }, {
+        "id": 39006,
+        "name": "Nokia C12 3/64GB - Cyan",
+        "brand": "Nokia",
+        "category": "Smartphone",
+        "description": "Stellar shots and breath-taking view Bidik dengan mode Malam dan mode Potret yang bertenaga di kamera belakang dan depan, lalu kagumi hasilnya pada layar HD+  yang menakjubkan.",
+        "price": 1999000,
+        "sku": "HAP-IP-14P-CON1",
+        "rating": "4.9",
+        "rating_double": 5,
+        "total_review": 3,
+        "stock": "20",
+        "thumbnail": "https://cdn.eraspace.com/media/catalog/product/n/o/nokia_c12_cyan_1.jpg",
+        "detail_product": [
+          {
+            "label": "Jaringan",
+            "description": "GSM / HSPA / LTE"
+          },
+          {
+            "label": "Warna",
+            "description": "Cyan"
+          },
+          {
+            "label": "Sistem Operasi",
+            "description": "Android 12"
+          },
+          {
+            "label": "Procesor",
+            "description": "Unisoc SC9863A1 (28nm), Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55"
+          },
+          {
+            "label": "Dimensi",
+            "description": "160,6 x 74,3 x 8,8"
+          },
+          {
+            "label": "Berat",
+            "description": "240 gr"
+          },
+          {
+            "label": "Garansi Resmi",
+            "description": "Garansi resmi"
+          }
+        ],
+        "variants": [
+          {
+            "attribute_id": "93",
+            "id": 2376,
+            "label": "Warna",
+            "product_id": 41830,
+            "values": [
+              {
+                "image": "https://cdn.eraspace.com/media/catalog/product/n/o/nokia_c12_cyan_1.jpg",
+                "label": "Cyan",
+                "option_value": "#f0f2f2"
+              }
+        ]
+              
+          }
+          
+        ]
+      }]
 }
