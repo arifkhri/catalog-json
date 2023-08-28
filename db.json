@@ -1,4 +1,6 @@
 {
+    "data" : {
+    
     "products": [{
         "id": 39005,
         "name": "Apple iPhone 14 Pro",
@@ -216,4 +218,5 @@
           
         ]
       }]
+}
 }
