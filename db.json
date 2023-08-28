@@ -109,7 +109,7 @@
         "rating_double": 5,
         "total_review": 1,
         "stock": "20",
-        "thumbnail": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png",
+        "thumbnail": "https://raw.githubusercontent.com/arifkhri/catalog/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png",
         "detail_product": [
           {
             "label": "Jaringan",
@@ -148,7 +148,7 @@
             "product_id": 41830,
             "values": [
               {
-                "image": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png",
+                "image": "https://raw.githubusercontent.com/arifkhri/catalog/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png",
                 "label": "Black",
                 "option_value": "#000"
               }
@@ -169,7 +169,7 @@
         "rating_double": 5,
         "total_review": 3,
         "stock": "20",
-        "thumbnail": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/nokia_c12_cyan_1-removebg-preview.png",
+        "thumbnail": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/nokia_c12_cyan_1-removebg-preview.png?raw=true",
         "detail_product": [
           {
             "label": "Jaringan",
@@ -208,7 +208,7 @@
             "product_id": 41830,
             "values": [
               {
-                "image": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/nokia_c12_cyan_1-removebg-preview.png",
+                "image": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/nokia_c12_cyan_1-removebg-preview.png?raw=true",
                 "label": "Cyan",
                 "option_value": "#f0f2f2"
               }
