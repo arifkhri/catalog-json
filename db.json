@@ -11,7 +11,7 @@
         "rating_double": 5,
         "total_review": 3,
         "stock": "20",
-        "thumbnail": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1_5.jpg",
+        "thumbnail": "https://github.com/arifkhri/catalog-json/blob/master/images/products/iphone-14/iphone_14_pro_deep_purple_1_5-removebg-preview.png?raw=true",
         "detail_product": [{
             "label": "Ukuran Layar",
             "description": " 6.7 inci, 1290 x 2796 pixels, LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
@@ -48,22 +48,22 @@
                 "product_id": 41830,
                 "values": [
                     {
-                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_silver_1_3_1.jpg",
+                        "image": "https://github.com/arifkhri/catalog-json/blob/master/images/products/iphone-14/iphone_14_pro_max_silver_1_3_1-removebg-preview.png?raw=true",
                         "label": "Silver",
                         "option_value": "#f0f2f2"
                     },
                     {
-                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_deep_purple_1_2_1.jpg",
+                        "image": "https://github.com/arifkhri/catalog-json/blob/master/images/products/iphone-14/iphone_14_pro_deep_purple_1_5-removebg-preview.png?raw=true",
                         "label": "Deep Purple",
                         "option_value": "#594f63"
                     },
                     {
-                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_gold_1_1_1.jpg",
+                        "image": "https://github.com/arifkhri/catalog-json/blob/master/images/products/iphone-14/iphone_14_pro_max_gold_1_1_1-removebg-preview.png?raw=true",
                         "label": "Gold",
                         "option_value": "#f4e8ce"
                     },
                     {
-                        "image": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_14_pro_max_space_black_1_4.jpg",
+                        "image": "https://github.com/arifkhri/catalog-json/blob/master/images/products/iphone-14/iphone_14_pro_max_space_black_1_4-removebg-preview.png?raw=true",
                         "label": "Space Black",
                         "option_value": "#403e3d"
                     }
@@ -107,7 +107,7 @@
         "rating_double": 5,
         "total_review": 1,
         "stock": "20",
-        "thumbnail": "https://raw.githubusercontent.com/arifkhri/catalog/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png",
+        "thumbnail": "https://github.com/arifkhri/catalog-json/blob/master/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png?raw=true",
         "detail_product": [
           {
             "label": "Jaringan",
@@ -146,7 +146,7 @@
             "product_id": 41830,
             "values": [
               {
-                "image": "https://raw.githubusercontent.com/arifkhri/catalog/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png",
+                "image": "https://github.com/arifkhri/catalog-json/blob/master/images/products/asus_rog_phone_6_phantom_black_1_1-removebg-preview.png?raw=true",
                 "label": "Black",
                 "option_value": "#000"
               }
@@ -167,7 +167,7 @@
         "rating_double": 5,
         "total_review": 3,
         "stock": "20",
-        "thumbnail": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/nokia_c12_cyan_1-removebg-preview.png?raw=true",
+        "thumbnail": "https://github.com/arifkhri/catalog-json/blob/master/images/products/nokia_c12_cyan_1-removebg-preview.png?raw=true",
         "detail_product": [
           {
             "label": "Jaringan",
@@ -206,7 +206,7 @@
             "product_id": 41830,
             "values": [
               {
-                "image": "https://github.com/arifkhri/catalog/blob/1e1ceb0b7df0eb8b43d14e03b2aee1b964e74024/public/images/products/nokia_c12_cyan_1-removebg-preview.png?raw=true",
+                "image": "https://github.com/arifkhri/catalog-json/blob/master/images/products/nokia_c12_cyan_1-removebg-preview.png?raw=true",
                 "label": "Cyan",
                 "option_value": "#f0f2f2"
               }
